@@ -2,7 +2,7 @@
 
 Re-code of some C library functions.
 
-Score 121/100
+##### Score 121/100
 
 ### Features
 - Collection of useful C library functions
